@@ -49,7 +49,7 @@ For each individual model run, we extracted various ecological, connectivity, in
 Every output data file is compiled for cyclone and bleaching parameterised scenarios seperately. Additionally, data is normalised and subset for further downstream analyses
 (see script Compile_extracted_outputs_inter_scen_040525)
 
-Following files can be requested upon request due to upload size limitations
+Following files can be requested upon request due to upload size limitations:
 Compiled and normalised data for scenarios with no disturbance=Extract_final_OC_VR_1cyc_1int_3LS_nodist_norm_3SD_3PAR_170824.txt
 Compiled and normalised data for scenarios with cyclone=Extract_final_OC_VR_1cyc_1int_170824_3larv_3SD_3PAR_cor_norm.txt
 Compiled and normalised data for scenarios with bleaching event=Extract_final_OC_VR_1dhw_1int_3LS_5_10_20_200824_cor_norm.txt
@@ -58,7 +58,7 @@ Compiled and normalised data for scenarios with bleaching event=Extract_final_OC
 Variable importance is assessed for no disturbance/only cyclone or only bleaching scenarios in R. Additionally, script provides visualisation of variable impontance (Figure 3 and 5) analysis of pdp plots (Figure 4 and S3)
 Script=Rscript_nodist_pdp_dist_randomforest_var_imp_040525.R
 
-Folder contains randomforest models of the different disturbance scenario analyses.
+Following files can be requested upon request due to upload size limitations --> Randomforest models of the different disturbance scenario analyses.
 Randomforest model for no disturbance scenarios=Nodist_cyc_nocorr_rf_3selfret_3larval_3stockdens_3PAR_norm_suppl_noHT_170824.R
 Randomforest model for cyclone scenarios=Nodist_cyc_nocorr_rf_3selfret_3larval_3stockdens_3PAR_norm_suppl_noHT_170824.R
 Randomforest model for bleaching event scenarios=Nodist_cyc_nocorr_rf_3selfret_3larval_3stockdens_3PAR_norm_suppl_noHT_170824.R
