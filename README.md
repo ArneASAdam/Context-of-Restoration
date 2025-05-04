@@ -2,7 +2,7 @@
 
 This repository conatisn script and data used in analyses related to the Context-dependent benefits of coral reef restoration study.
 
-For this study, the fast version of ReefMod (Bozec et al. 2022), otherwise referred to as ReefMod Engine has been used to run various single reef customised intervention scenarios in a short time frame. The version of the ReefMod Engine used here is rme version 1.0.28 (folder of the model containing manual is provided)
+For this study, the fast version of ReefMod (Bozec et al. 2022), otherwise referred to as ReefMod Engine has been used to run various single reef customised intervention scenarios in a short time frame. The version of the ReefMod Engine used here is rme version 1.0.28 (model will be provided at publication)
 
 Before running the scenarios using the Engine scenario, range of scenarios options need to be defined using parameters defined in Table 1 of the manuscript.
 
