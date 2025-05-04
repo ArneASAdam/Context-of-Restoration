@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<config>
+
+<id_list fp="special_reef_ID_240124.csv" />
+
+<con_coral>
+  <data year="2011" fp="special_con_self_ret_240124.csv" />
+</con_coral>
+
+<con_cots>
+  <data year="2011" fp="special_con_self_ret_240124.csv" />
+</con_cots>
+
+<wq>
+  <data name="wq_test"
+	ssc_surf_fp="special_sed_surface_240124.csv"
+	ssc_mid_fp="special_sed_middepth_240124.csv"
+	cots_fp="special_COTS_red_factor_240124.csv">wq_test</data> 
+</wq>
+
+<dhw>
+  <rcp name="ssp_test">ssp_test</rcp>
+  <gsm name="gsm_test">gsm_test</gsm>
+  <data rcp="ssp_test" gsm="gsm_test" fp="special_DHW_240124.csv" />
+</dhw>
+
+<cyc>
+  <data fp="special_cyc_240124.csv" />
+</cyc>
+
+<initial>
+  <sp1 fp="special_sp1_init_cover_240124.csv" />
+  <sp2 fp="special_sp2_init_cover_240124.csv" />
+  <sp3 fp="special_sp3_init_cover_240124.csv" />
+  <sp4 fp="special_sp4_init_cover_240124.csv" />
+  <sp5 fp="special_sp5_init_cover_240124.csv" />
+  <sp6 fp="special_sp6_init_cover_240124.csv" />
+  <rubble fp="special_rubble_init_cover_240124.csv" />
+  <cots fp="special_cots_init_cover_240124.csv" />
+</initial>
+
+</config>
+
+ 
