@@ -41,6 +41,7 @@ Model scenarios were run on the HPC using job array configuration (use matlab sc
 
 Output data is within reef and at reef level. Note in the output Cell_final, other data is present SITE/NOSITE but is not been used for this study.
 Model output data can be provided upon request
+
 ### Extraction of desired model output data
 For each individual model run, we extracted various ecological, connectivity, intervention and disturbance related data (see script HPC_Engine_intervention_model_1cyc_dhw_080824 for more information).
 
@@ -48,6 +49,7 @@ For each individual model run, we extracted various ecological, connectivity, in
 Every output data file is compiled for cyclone and bleaching parameterised scenarios seperately. Additionally, data is normalised and subset for further downstream analyses
 (see script Compile_extracted_outputs_inter_scen_040525)
 
+Following files can be requested upon request due to upload size limitations
 Compiled and normalised data for scenarios with no disturbance=Extract_final_OC_VR_1cyc_1int_3LS_nodist_norm_3SD_3PAR_170824.txt
 Compiled and normalised data for scenarios with cyclone=Extract_final_OC_VR_1cyc_1int_170824_3larv_3SD_3PAR_cor_norm.txt
 Compiled and normalised data for scenarios with bleaching event=Extract_final_OC_VR_1dhw_1int_3LS_5_10_20_200824_cor_norm.txt
